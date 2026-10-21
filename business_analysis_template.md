@@ -8,9 +8,20 @@ This document will summarize the key findings from the SQL analysis. The conclus
 ## 1. Key Business Questions
 
 ### 1. Which product category generates the most revenue?
-**Finding:** _Add the leading category and its revenue share._
+**Finding:** 
 
-**Business insight:** _Explain what this result suggests about customer demand._
+| Product Category | Revenue | Share of Total Revenue |
+|---|---:|---:|
+| Hair | 126,301 | 32.82% |
+| Makeup | 103,662 | 26.94% |
+| Body | 88,177 | 22.91% |
+| Skin | 66,713 | 17.33% |
+| **Total** | **384,853** | **100.00%** |
+
+**Business Insight:**
+
+_The Hair category generates the highest revenue, accounting for 32.82% of total revenue. Makeup ranks second, followed by Body and Skin. Skin generates the lowest revenue among the four categories._
+
 
 ### 2. Which products are the best-sellers?
 **Finding:** _List the leading products by units sold and/or revenue._
