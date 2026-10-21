@@ -145,10 +145,32 @@ The company should also monitor monthly revenue trends and develop strategies to
 
 The company's revenue fluctuated throughout the year and ended approximately 8.22% below its January level. Further investigation is needed to identify the causes of these changes and determine opportunities for sustainable revenue growth.
 
-### 6. Which months experienced the largest sales declines?
-**Finding:** _List the months with the largest decreases in revenue._
 
-**Business insight:** _Identify periods that may need further investigation._
+### 6. Which months experienced the largest sales declines?
+
+**Finding:**
+
+| Month | Revenue | Change vs. Previous Month | Percentage Change |
+|---|---:|---:|---:|
+| September | 26,374 | -9,999 | -27.49% |
+| November | 31,095 | -8,300 | -21.07% |
+| February | 30,085 | -6,631 | -18.06% |
+| May | 30,047 | -2,224 | -6.89% |
+
+**Business Insight:**
+
+September experienced the largest revenue decline, falling by 9,999 (27.49%) compared with August. November recorded the second-largest decline, with revenue decreasing by 8,300 (21.07%) compared with October. February ranked third, with a decrease of 6,631 (18.06%) compared with January.
+
+These fluctuations suggest that the business may experience periods of unstable sales performance. However, additional analysis is needed to determine the reasons behind these declines.
+
+**Business Recommendation:**
+
+The company should investigate the causes of the significant revenue drops in September, November, and February. It should examine seasonal demand, marketing activities, product availability, and changes in customer purchasing behavior. Identifying the underlying causes could help the company develop strategies to reduce future revenue declines.
+
+**Conclusion:**
+
+September was the most critical month for revenue decline, followed by November and February. Investigating these periods should be a priority to improve sales stability and support more predictable business performance.
+
 
 ### 7. Who are the most valuable customers?
 **Finding:** _Identify customers with the highest total revenue, if customer-level data supports this._
