@@ -10,7 +10,7 @@ This document will summarize the key findings from the SQL analysis. The conclus
 ### 1. Which product category generates the most revenue?
 **Finding:** 
 
-| Product Category | Revenue | Share of Total Revenue |
+| Product Category | total_sold | Share of Total Revenue |
 |---|---:|---:|
 | Hair | 126,301 | 32.82% |
 | Makeup | 103,662 | 26.94% |
@@ -22,11 +22,35 @@ This document will summarize the key findings from the SQL analysis. The conclus
 
 _The Hair category generates the highest revenue, accounting for 32.82% of total revenue. Makeup ranks second, followed by Body and Skin. Skin generates the lowest revenue among the four categories._
 
+**Business Recommendation:**
+
+The company should investigate which products drive revenue in the Hair category and ensure their availability. It should also analyze the Skin category to identify opportunities to improve sales through marketing, pricing, or product assortment.
 
 ### 2. Which products are the best-sellers?
-**Finding:** _List the leading products by units sold and/or revenue._
 
-**Business insight:** _Explain which products appear most important to sales._
+**Finding:**
+
+| Rank | product_name | total_sold |
+|---:|---|---:|
+| 1 | Product_45 | 171 |
+| 2 | Product_47 | 163 |
+| 3 | Product_6 | 157 |
+| 4 | Product_23 | 156 |
+| 5 | Product_25 | 156 |
+| 6 | Product_42 | 154 |
+| 7 | Product_32 | 152 |
+| 8 | Product_16 | 151 |
+| 9 | Product_26 | 144 |
+| 10 | Product_4 | 144 |
+
+**Business Insight:**
+
+Product_45 is the best-selling product, with 171 units sold, followed by Product_47 with 163 units and Product_6 with 157 units. The sales volumes among the top 10 products are relatively close, suggesting that several products contribute to sales rather than one product clearly dominating the ranking.
+
+**Business Recommendation:**
+
+The company should monitor inventory levels for the best-selling products to reduce the risk of stockouts. It should also investigate product names, categories, and revenue to better understand what drives demand and determine which products deserve additional marketing support.
+
 
 ### 3. Which countries are most important to the business?
 **Finding:** _Add the top countries by revenue or order volume, if country data is available._
