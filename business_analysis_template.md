@@ -53,19 +53,97 @@ The company should monitor inventory levels for the best-selling products to red
 
 
 ### 3. Which countries are most important to the business?
-**Finding:** _Add the top countries by revenue or order volume, if country data is available._
 
-**Business insight:** _Explain where the business has its strongest markets._
+**Finding:**
+
+| Rank | Country | Revenue | Share of Total Revenue |
+|---:|---|---:|---:|
+| 1 | Italy | 91,076 | 23.66% |
+| 2 | Spain | 83,217 | 21.62% |
+| 3 | Morocco | 79,834 | 20.74% |
+| 4 | France | 65,995 | 17.15% |
+| 5 | Germany | 64,731 | 16.82% |
+| **Total** | | **384,853** | **100.00%** |
+
+**Business Insight:**
+
+Italy is the largest market by revenue, contributing approximately 23.66% of total revenue. Spain ranks second, followed by Morocco. Together, Italy and Spain generate around 45.28% of total revenue, making these two countries particularly important markets for the business.
+
+Germany generates the lowest revenue among the five countries, although its contribution remains significant.
+
+**Business Recommendation:**
+
+The company should investigate opportunities to strengthen its presence in Italy and Spain, where revenue is highest. It should also analyze customer demand and marketing performance in Morocco, France, and Germany to identify opportunities for growth and understand differences between markets.
+
+**Conclusion:**
+
+Italy is the leading market by revenue, followed by Spain and Morocco. The company should prioritize understanding customer behavior in its strongest markets while looking for opportunities to improve performance in countries with lower revenue.
+
 
 ### 4. What percentage of customers make repeat purchases?
-**Finding:** _Add the percentage of customers who placed more than one order._
 
-**Business insight:** _Explain what this may indicate about customer retention._
+**Finding:**
 
-### 5. Is revenue growing over time?
-**Finding:** _Summarize the revenue trend and relevant period-to-period changes._
+| Metric | Result |
+|---|---:|
+| Total Customers | 285 |
+| Returning Customers | 246 |
+| Returning Customers Percentage | 86.32% |
 
-**Business insight:** _State whether revenue is growing, declining, or fluctuating._
+**Business Insight:**
+
+The analysis shows that 246 out of 285 customers made more than one purchase, representing 86.32% of all customers. This indicates a high rate of repeat purchasing and suggests that many customers return to the business after their initial order.
+
+**Business Recommendation:**
+
+The company should focus on retaining returning customers through loyalty programs, personalized offers, and targeted promotions. It should also investigate the behavior of the 39 customers who made only one purchase to identify opportunities to encourage them to return.
+
+**Conclusion:**
+
+The returning customer rate is 86.32%, indicating strong repeat-purchase activity. Maintaining customer loyalty while encouraging first-time buyers to make another purchase could help support future revenue.
+
+
+### 5. Is the company's revenue growing?
+
+**Finding:**
+
+| Month | Revenue | Change vs. Previous Month |
+|---|---:|---:|
+| January | 36,716 | — |
+| February | 30,085 | -6,631 |
+| March | 31,053 | +968 |
+| April | 32,271 | +1,218 |
+| May | 30,047 | -2,224 |
+| June | 29,313 | -734 |
+| July | 28,434 | -879 |
+| August | 36,373 | +7,939 |
+| September | 26,374 | -9,999 |
+| October | 39,395 | +13,021 |
+| November | 31,095 | -8,300 |
+| December | 33,697 | +2,602 |
+
+**Key Metrics:**
+
+- **Total Annual Revenue:** 384,853
+- **Highest Revenue Month:** October — 39,395
+- **Lowest Revenue Month:** September — 26,374
+- **January vs. December:** Revenue decreased by 8.22%.
+
+**Business Insight:**
+
+The company's revenue does not show consistent growth throughout the year. Monthly sales fluctuate significantly, with notable increases in August and October and substantial declines in September and November.
+
+Revenue decreased from 36,716 in January to 33,697 in December, representing an overall decline of approximately 8.22% between these two months. Although revenue recovered in December, it did not return to its January level.
+
+**Business Recommendation:**
+
+The company should investigate the reasons behind major monthly fluctuations, particularly the decline in September and the increase in October. It should analyze potential factors such as marketing campaigns, promotions, product availability, and seasonal demand.
+
+The company should also monitor monthly revenue trends and develop strategies to improve sales consistency and support sustainable growth.
+
+**Conclusion:**
+
+The company's revenue fluctuated throughout the year and ended approximately 8.22% below its January level. Further investigation is needed to identify the causes of these changes and determine opportunities for sustainable revenue growth.
 
 ### 6. Which months experienced the largest sales declines?
 **Finding:** _List the months with the largest decreases in revenue._
