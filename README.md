@@ -1,5 +1,5 @@
 # e-commerce-sql-analysis
-##E-commerce SQL Data Analysis
+E-commerce SQL Data Analysis
 
 Hi everyone, and welcome to my GitHub project! 👋
 
