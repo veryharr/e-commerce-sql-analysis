@@ -58,7 +58,7 @@ The company should monitor inventory levels for the best-selling products to red
 
 | Rank | Country | Revenue | Share of Total Revenue |
 |---:|---|---:|---:|
-| 1 | Italy | 91,076 | 23.66% |
+| 1 | Italy | 91,076 | 23.67% |
 | 2 | Spain | 83,217 | 21.62% |
 | 3 | Morocco | 79,834 | 20.74% |
 | 4 | France | 65,995 | 17.15% |
