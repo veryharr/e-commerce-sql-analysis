@@ -172,15 +172,71 @@ The company should investigate the causes of the significant revenue drops in Se
 September was the most critical month for revenue decline, followed by November and February. Investigating these periods should be a priority to improve sales stability and support more predictable business performance.
 
 
-### 7. Who are the most valuable customers?
-**Finding:** _Identify customers with the highest total revenue, if customer-level data supports this._
 
-**Business insight:** _Explain how high-value customers could inform retention efforts._
+### 7. Who are the most valuable customers?
+
+**Finding:**
+
+| Rank | Customer ID | Country | Total Revenue |
+|---:|---:|---|---:|
+| 1 | 5388 | Morocco | 5,388 |
+| 2 | 5048 | Italy | 5,048 |
+| 3 | 4564 | Morocco | 4,564 |
+| 4 | 3769 | Morocco | 3,769 |
+| 5 | 3509 | Italy | 3,509 |
+| 6 | 3420 | France | 3,420 |
+| 7 | 3416 | Italy | 3,416 |
+| 8 | 3330 | Spain | 3,330 |
+| 9 | 3275 | Italy | 3,275 |
+| 10 | 3264 | France | 3,264 |
+
+**Business Insight:**
+
+Customer 5388 from Morocco is the most valuable customer by revenue, generating 5,388, followed by customer 5048 from Italy with 5,048. Morocco accounts for three customers in the top 10, while Italy accounts for four.
+
+These results show that a relatively small group of customers generates substantial individual revenue. However, further analysis is needed to determine how much these customers contribute to total company revenue and whether their purchasing behavior is consistent over time.
+
+**Business Recommendation:**
+
+The company should focus on retaining high-value customers through personalized offers, loyalty programs, and targeted promotions. It should also analyze their purchase frequency and order history to identify behaviors that could help attract and retain similar customers.
+
+**Conclusion:**
+
+Customer 5388 from Morocco ranks first by revenue. Italy and Morocco are both well represented among the top 10 customers, making customer retention in these markets worth investigating.
+
 
 ### 8. Which products are underperforming?
-**Finding:** _Identify products with low sales or revenue, using a clearly defined comparison._
 
-**Business insight:** _Consider whether these products need better promotion, pricing review, or assortment changes._
+**Finding:**
+
+The following 10 products have the lowest sales volumes among products with recorded sales.
+
+| Rank | Product | Units Sold |
+|---:|---|---:|
+| 1 | Product_10 | 79 |
+| 2 | Product_5 | 86 |
+| 3 | Product_33 | 89 |
+| 4 | Product_50 | 89 |
+| 5 | Product_36 | 91 |
+| 6 | Product_37 | 91 |
+| 7 | Product_46 | 93 |
+| 8 | Product_24 | 94 |
+| 9 | Product_27 | 100 |
+| 10 | Product_2 | 100 |
+
+**Business Insight:**
+
+Product_10 has the lowest sales volume, with 79 units sold, followed by Product_5 with 86 units. These products may require further investigation to understand why their sales volumes are relatively low.
+
+However, low sales volume alone does not necessarily mean a product is unprofitable or unsuccessful. Demand, pricing, profit margins, and product availability should also be considered.
+
+**Business Recommendation:**
+
+The company should investigate the reasons behind low sales volumes by analyzing product prices, categories, customer demand, and marketing performance. Targeted promotions or adjustments to product positioning could be considered if supported by further analysis.
+
+**Conclusion:**
+
+Product_10 has the lowest sales volume among the 10 products identified. Further investigation is needed before deciding whether to promote, reprice, or discontinue underperforming products.
 
 ### 9. Which customer segment generates the most revenue?
 **Finding:** _Add the highest-revenue segment if segment data exists or a segment definition has been created._
