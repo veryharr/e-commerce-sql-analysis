@@ -42,7 +42,8 @@ e-commerce-sql-analysis/
 ├── README.md
 ├── business_analysis_template.md
 └── e-commerce-sql-analysis/
-    └── SQL query files
+    ├── dataset
+    └── queries
 ```
 
 The SQL folder contains queries organized around these topics:
@@ -95,5 +96,4 @@ Some scripts depend on tables and columns being named as described in the Datase
 - The recommendations are based on observed patterns; further analysis is needed to confirm the causes of revenue fluctuations.
 
 ## Author
-
-Created as a personal portfolio project to practise SQL-based data analysis and communicate business insights.
+Roman Veryha
