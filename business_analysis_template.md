@@ -175,34 +175,36 @@ September was the most critical month for revenue decline, followed by November 
 
 ### 7. Who are the most valuable customers?
 
+
 **Finding:**
 
-| Rank | Country | Total Revenue |
-|---:|---|---:|
-| 1 | Morocco | 5,388 |
-| 2 | Italy | 5,048 |
-| 3 | Morocco | 4,564 |
-| 4 | Morocco | 3,769 |
-| 5 | Italy | 3,509 |
-| 6 | France | 3,420 |
-| 7 | Italy | 3,416 |
-| 8 | Spain | 3,330 |
-| 9 | Italy | 3,275 |
-| 10 | France | 3,264 |
+| Rank | Customer ID | Country | Total Revenue |
+|---:|---:|---|---:|
+| 1 | 152 | Morocco | 5,388 |
+| 2 | 13 | Italy | 5,048 |
+| 3 | 39 | Morocco | 4,564 |
+| 4 | 231 | Morocco | 3,769 |
+| 5 | 25 | Italy | 3,509 |
+| 6 | 144 | France | 3,420 |
+| 7 | 172 | Italy | 3,416 |
+| 8 | 76 | Spain | 3,330 |
+| 9 | 192 | Italy | 3,275 |
+| 10 | 268 | France | 3,264 |
 
 **Business Insight:**
 
-Customer 5388 from Morocco is the most valuable customer by revenue, generating 5,388, followed by customer 5048 from Italy with 5,048. Morocco accounts for three customers in the top 10, while Italy accounts for four.
+Customer 152 from Morocco generates the highest revenue among the top 10 customers, with 5,388, followed by customer 13 from Italy with 5,048. Italy accounts for four customers in the top 10, while Morocco accounts for three.
 
-These results show that a relatively small group of customers generates substantial individual revenue. However, further analysis is needed to determine how much these customers contribute to total company revenue and whether their purchasing behavior is consistent over time.
+These results highlight the importance of identifying and retaining high-value customers. However, further analysis is needed to assess their contribution to total company revenue and purchasing behavior over time.
 
 **Business Recommendation:**
 
-The company should focus on retaining high-value customers through personalized offers, loyalty programs, and targeted promotions. It should also analyze their purchase frequency and order history to identify behaviors that could help attract and retain similar customers.
+The company should focus on retaining high-value customers through personalized offers, loyalty programs, and targeted promotions. Analyzing their purchase frequency and order history could help identify strategies to encourage repeat purchases and attract similar customers.
 
 **Conclusion:**
 
-Customer 5388 from Morocco ranks first by revenue. Italy and Morocco are both well represented among the top 10 customers, making customer retention in these markets worth investigating.
+Customer 152 from Morocco ranks first by revenue. Italy and Morocco are the most represented countries among the top 10 customers, making them useful starting points for further customer retention analysis.
+
 
 
 ### 8. Which products are underperforming?
