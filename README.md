@@ -27,7 +27,6 @@ Tools & SQL Skills
 - Revenue shares, customer segmentation, and month-over-month comparisons
 Project Structure
 e-commerce-sql-analysis/
-e-commerce-sql-analysis/
 │
 ├── README.md
 ├── business_analysis_template.md
