@@ -239,25 +239,51 @@ The company should investigate the reasons behind low sales volumes by analyzing
 Product_10 has the lowest sales volume among the 10 products identified. Further investigation is needed before deciding whether to promote, reprice, or discontinue underperforming products.
 
 ### 9. Which customer segment generates the most revenue?
-**Finding:** _Add the highest-revenue segment if segment data exists or a segment definition has been created._
 
-**Business insight:** _Explain which customer group contributes most to sales._
+**Finding:**
+
+| Customer Segment | Number of Customers | Segment Revenue | Revenue Share |
+|---|---:|---:|---:|
+| High-Value Customers | 93 | 233,120 | 60.57% |
+| Mid-Value Customers | 92 | 111,374 | 28.94% |
+| Low-Value Customers | 92 | 40,359 | 10.49% |
+| **Total** | **277** | **384,853** | **100.00%** |
+
+**Business Insight:**
+
+High-Value Customers generate the largest share of revenue, contributing 233,120, or 60.57% of total revenue. Although this segment represents approximately one-third of the customers included in the analysis, it generates more than half of the company's revenue.
+
+Mid-Value Customers contribute 28.94% of revenue, while Low-Value Customers account for just 10.49%.
+
+These results indicate that customers with higher purchasing value are particularly important to the business.
+
+**Business Recommendation:**
+
+The company should prioritize retaining High-Value Customers through personalized offers, loyalty programs, and targeted communication. It should also investigate the purchasing behavior of Mid-Value Customers to identify opportunities to increase their spending.
+
+For Low-Value Customers, the company could test targeted promotions designed to encourage repeat purchases. The effectiveness of these initiatives should be measured using customer spending and retention metrics.
+
 
 ### 10. What business recommendations can be made?
+
 **Recommendations:**
-- _Prioritize categories and products supported by the sales results._
-- _Investigate significant revenue declines and seasonal patterns._
-- _Encourage repeat purchases through relevant retention campaigns._
-- _Adapt marketing to the strongest countries or customer segments, where supported by the data._
-- _Review low-performing products before making pricing or assortment decisions._
+
+1. **Focus on Top Categories:** Prioritize the Hair category, which generates 32.82% of total revenue, and investigate opportunities to improve Skin category sales.
+
+2. **Optimize Product Performance:** Maintain availability of best-selling products and investigate low-selling products before changing prices or the product assortment.
+
+3. **Strengthen Key Markets:** Focus on Italy, Spain, and Morocco, which generate the highest revenue.
+
+4. **Improve Customer Retention:** Reward returning customers and encourage one-time buyers to make repeat purchases.
+
+5. **Retain High-Value Customers:** Focus on customer loyalty, as the High-Value segment generates 60.57% of revenue.
+
+6. **Investigate Revenue Declines:** Analyze the sharp drops in September, November, and February to identify their causes and prevent recurring losses.
+
+
+The company should focus on customer retention, its strongest products and markets, and investigating revenue fluctuations to support sustainable growth.
 
 ## 2. Overall Conclusion
 
-_Add a short conclusion summarizing the most important findings, the main business opportunity, and the next action the company should consider._
+The company should focus on customer retention, its strongest products and markets, and investigating revenue fluctuations to support sustainable growth. The Hair category generates the highest revenue, while Italy, Spain, and Morocco represent the strongest markets. High-Value Customers contribute 60.57% of total revenue, highlighting the importance of retaining valuable customers and encouraging repeat purchases. The company should also investigate significant revenue declines, particularly in September and November, to identify potential causes. Finally, reviewing low-selling products and monitoring sales performance could help improve business decisions and identify new growth opportunities.
 
-## 3. Notes & Limitations
-
-- Complete this document after running the SQL queries and validating the results.
-- Do not describe revenue as **profit** unless cost data is available to calculate profit.
-- Country and customer-segment conclusions require suitable fields in the dataset.
-- Recommendations should be based on observed results, not assumptions.
