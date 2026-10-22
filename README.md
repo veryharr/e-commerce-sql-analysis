@@ -25,21 +25,19 @@ Tools & SQL Skills
 - Window functions, including NTILE() and LAG()
 - Date-based analysis with DATE_TRUNC()
 - Revenue shares, customer segmentation, and month-over-month comparisons
-Project Structure
+## 📁 Project Structure
+
+```text
 e-commerce-sql-analysis/
-│
 ├── README.md
 ├── business_analysis_template.md
-│
 └── e-commerce-sql-analysis/
-    │
     ├── dataset/
     │   ├── customers.csv
     │   ├── order_items.csv
     │   ├── orders.csv
     │   ├── products.csv
     │   └── sales_cleaned.csv
-    │
     └── queries/
         ├── 01_business_overview.sql
         ├── 02_sales_analysis.sql
@@ -47,6 +45,8 @@ e-commerce-sql-analysis/
         ├── 04_customer_analysis.sql
         ├── 05_customer_retention.sql
         └── 06_advanced.sql
+```
+
 The SQL folder contains queries organized around these topics:
 - Business overview and key metrics
 - Sales and monthly revenue trends
