@@ -8,20 +8,17 @@ The goal of this project is to answer practical business questions using SQL and
 
 The analysis focuses on revenue, product performance, customer retention, monthly sales trends, valuable customers, and customer segmentation.
 
+
 ## 📂 Dataset
 
-**Source:** E-Commerce Sales & Customer Analytics Dataset (Kaggle)
+**Source:** [E-Commerce Sales & Customer Analytics Dataset — Kaggle](https://www.kaggle.com/datasets/maramsa/e-commerce-sales-and-customer-analytics-dataset)
 
 **Database:** PostgreSQL
 
-### Tables and Key Fields
+**Tables used:** `customers`, `orders`, `order_items`, `products`
 
-| Table | Key Fields | Purpose |
-|---|---|---|
-| `customers` | `customer_id`, `country` | Customer and country analysis |
-| `orders` | `order_id`, `customer_id`, `order_date` | Order history and sales trends |
-| `order_items` | `order_id`, `product_id`, `price`, `quantity` | Revenue and units sold |
-| `products` | `product_id`, `product_name`, `category` | Product and category analysis |
+The dataset was used to analyze sales performance, product categories, customer behavior, repeat purchases, and revenue trends.
+
 
 ## 🛠️ Tools & SQL Skills
 
