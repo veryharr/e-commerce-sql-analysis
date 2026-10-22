@@ -289,3 +289,6 @@ The company should focus on customer retention, its strongest products and marke
 
 The company should focus on customer retention, its strongest products and markets, and investigating revenue fluctuations to support sustainable growth. The Hair category generates the highest revenue, while Italy, Spain, and Morocco represent the strongest markets. High-Value Customers contribute 60.57% of total revenue, highlighting the importance of retaining valuable customers and encouraging repeat purchases. The company should also investigate significant revenue declines, particularly in September and November, to identify potential causes. Finally, reviewing low-selling products and monitoring sales performance could help improve business decisions and identify new growth opportunities.
 
+## 3. Notes & Limitations
+
+- **Data Completeness:** The dataset contains 285 customers, but only 277 have matching order-item records. Eight customers have 13 orders without corresponding records in `order_items`, so their revenue cannot be calculated from the available data. These customers were excluded from revenue-based segmentation, and the missing records should be investigated.
