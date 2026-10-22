@@ -213,7 +213,10 @@ select *
 		, LAG(revenue) OVER (ORDER BY month) AS previous_revenue
 		, revenue - LAG(revenue) OVER (ORDER BY month)as raznica
 from month_revenue 
+order by raznica desc NULLS last
+limit 1
 ;
+
 
 
 
