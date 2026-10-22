@@ -69,13 +69,6 @@ e-commerce-sql-analysis/
 - Explore opportunities in the strongest markets.
 - Review low-selling products before making pricing or assortment decisions.
 
-## ▶️ How to Run
-
-1. Install PostgreSQL and a database client such as DBeaver.
-2. Import the CSV files from the `dataset/` folder into PostgreSQL.
-3. Open the SQL files in `queries/`.
-4. Execute the queries in order and review the results.
-5. Read `business_analysis_template.md` for the business findings and recommendations.
 
 ## ⚠️ Notes & Limitations
 
