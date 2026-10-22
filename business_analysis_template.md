@@ -177,18 +177,18 @@ September was the most critical month for revenue decline, followed by November 
 
 **Finding:**
 
-| Rank | Customer ID | Country | Total Revenue |
-|---:|---:|---|---:|
-| 1 | 5388 | Morocco | 5,388 |
-| 2 | 5048 | Italy | 5,048 |
-| 3 | 4564 | Morocco | 4,564 |
-| 4 | 3769 | Morocco | 3,769 |
-| 5 | 3509 | Italy | 3,509 |
-| 6 | 3420 | France | 3,420 |
-| 7 | 3416 | Italy | 3,416 |
-| 8 | 3330 | Spain | 3,330 |
-| 9 | 3275 | Italy | 3,275 |
-| 10 | 3264 | France | 3,264 |
+| Rank | Country | Total Revenue |
+|---:|---|---:|
+| 1 | Morocco | 5,388 |
+| 2 | Italy | 5,048 |
+| 3 | Morocco | 4,564 |
+| 4 | Morocco | 3,769 |
+| 5 | Italy | 3,509 |
+| 6 | France | 3,420 |
+| 7 | Italy | 3,416 |
+| 8 | Spain | 3,330 |
+| 9 | Italy | 3,275 |
+| 10 | France | 3,264 |
 
 **Business Insight:**
 
