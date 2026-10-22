@@ -10,7 +10,7 @@ This document will summarize the key findings from the SQL analysis. The conclus
 ### 1. Which product category generates the most revenue?
 **Finding:** 
 
-| Product Category | total_sold | Share of Total Revenue |
+| Product Category | Revenue | Share of Total Revenue |
 |---|---:|---:|
 | Hair | 126,301 | 32.82% |
 | Makeup | 103,662 | 26.94% |
