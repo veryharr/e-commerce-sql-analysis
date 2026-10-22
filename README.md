@@ -1,15 +1,15 @@
-# 📊 E-commerce SQL Data Analysis
+# E-commerce SQL Data Analysis
 
 A portfolio project exploring e-commerce sales, product performance, customer behavior, and revenue trends using SQL and PostgreSQL.
 
-## 🎯 Project Overview
+## Project Overview
 
 The goal of this project is to answer practical business questions using SQL and turn query results into actionable business insights.
 
 The analysis focuses on revenue, product performance, customer retention, monthly sales trends, valuable customers, and customer segmentation.
 
 
-## 📂 Dataset
+## Dataset
 
 **Source:** [E-Commerce Sales & Customer Analytics Dataset — Kaggle](https://www.kaggle.com/datasets/maramsa/e-commerce-sales-and-customer-analytics-dataset)
 
@@ -20,7 +20,7 @@ The analysis focuses on revenue, product performance, customer retention, monthl
 The dataset was used to analyze sales performance, product categories, customer behavior, repeat purchases, and revenue trends.
 
 
-## 🛠️ Tools & SQL Skills
+## Tools & SQL Skills
 
 - **PostgreSQL** — database querying and analysis
 - **SQL JOINs** — combining related tables
@@ -30,7 +30,7 @@ The dataset was used to analyze sales performance, product categories, customer 
 - **Window functions** — `NTILE()`, `LAG()`, `SUM() OVER()`
 - **Date functions** — monthly revenue analysis and month-over-month comparisons
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 e-commerce-sql-analysis/
@@ -52,7 +52,7 @@ e-commerce-sql-analysis/
         └── 06_advanced.sql
 ```
 
-## 📈 Key Findings
+## Key Findings
 
 - **Top Category:** Hair generated 126,301 in revenue, accounting for approximately 32.82% of total revenue.
 - **Best-Selling Product:** Product_45 led sales with 171 units sold.
@@ -61,7 +61,7 @@ e-commerce-sql-analysis/
 - **Revenue Trends:** October recorded the largest month-over-month increase (+13,021), while September had the largest decline (-9,999).
 - **Customer Segmentation:** High-Value Customers generated 60.57% of revenue among the 277 customers included in the segmentation.
 
-## 💡 Business Recommendations
+## Business Recommendations
 
 - Prioritize the strongest product categories and monitor best-selling products.
 - Strengthen customer retention through loyalty programs and targeted offers.
@@ -70,13 +70,13 @@ e-commerce-sql-analysis/
 - Review low-selling products before making pricing or assortment decisions.
 
 
-## ⚠️ Notes & Limitations
+## Notes & Limitations
 
 - Revenue is not the same as profit; cost data is unavailable.
 - Product performance is evaluated by units sold unless stated otherwise.
 - Customer segmentation uses `NTILE(3)` based on customer revenue.
 - The analysis found 285 customers in `orders`, but only 277 customers had matching records in `order_items`. Eight customers with 13 orders lacking corresponding item records were excluded from revenue-based segmentation.
 
-## 👨‍💻 About This Project
+## About This Project
 
 This is my first Data Analytics portfolio project. It demonstrates my ability to use SQL and PostgreSQL to investigate business questions, analyze data, and communicate findings through clear conclusions and recommendations.
