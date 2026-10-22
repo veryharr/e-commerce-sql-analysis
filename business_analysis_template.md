@@ -1,4 +1,4 @@
-# 📊 Business Analysis & Recommendations
+#  Business Analysis & Recommendations
 
 > **Project:** E-commerce SQL Data Analysis  
 > **Purpose:** Translate SQL results into clear business insights and practical recommendations.
